@@ -1,0 +1,14 @@
+Python:
+Python is usually considered an interpreted language. 
+When we run a Python program, the Python interpreter handles the code and executes it. 
+Python first converts the code into bytecode, which is then run by the Python Virtual Machine.
+
+C:
+C is a compiled language. 
+Before running a C program, a compiler converts the entire program into machine code that the computer can understand. 
+After compilation, the generated executable file can be run.
+
+Java:
+Java works a little differently. 
+First, the Java compiler converts the source code into bytecode. 
+This bytecode is then executed by the Java Virtual Machine (JVM).
